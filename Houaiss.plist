@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>Portuguese</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.dictionary.Houaiss</string>
+	<key>CFBundleName</key>
+	<string>Houaiss</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>DCSDictionaryCopyright</key>
+	<string>GNU General Public License</string>
+	<key>DCSDictionaryManufacturerName</key>
+	<string></string>
+	<key>DCSDictionaryFrontMatterReferenceID</key>
+	<string>1</string>
+	<key>DCSDictionaryPrefsHTML</key>
+	<string>Houaiss_prefs.html</string>
+	<key>DCSDictionaryXSL</key>
+	<string>Houaiss.xsl</string>
+	<key>DCSDictionaryDefaultPrefs</key>
+	<dict>
+		<key>pronunciation</key>
+		<string>0</string>
+		<key>display-column</key>
+		<string>1</string>
+		<key>display-picture</key>
+		<string>0</string>
+		<key>version</key>
+		<string>1</string>
+	</dict>
+</dict>
+</plist>
